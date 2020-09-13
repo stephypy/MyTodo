@@ -20,7 +20,8 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] User cannot add new items that are an empty white space (feature needs to be added when editing items)
+* [x] Trims white spaces at the beginning and end of new items
 
 ## Video Walkthrough
 
