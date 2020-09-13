@@ -27,6 +27,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+<img src='todo_demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/MON8CcN"  ><a href="//imgur.com/a/MON8CcN">Simple Todo Walkthrough</a></blockquote>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
