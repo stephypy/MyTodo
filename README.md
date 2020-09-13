@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/MON8CcN"  ><a href="//imgur.com/a/MON8CcN">Simple Todo Walkthrough</a></blockquote><script async src="//s.imgur.com
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/MON8CcN"  ><a href="//imgur.com/a/MON8CcN">Simple Todo Walkthrough</a></blockquote>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
